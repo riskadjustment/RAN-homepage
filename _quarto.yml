@@ -3,14 +3,14 @@ project:
 
 website:
   title: "Risk Adjustment Network"
-  navbar:
-    left:
-    - href: index.qmd
-      text: Home
+  favicon: "favicon.ico"
+  
+  page-footer: 
+    center: 
+      - text: "The website is proudly powered by Stam Online"
 
 format:
   html:
     css: style.css
-    toc: true
 
 editor: source

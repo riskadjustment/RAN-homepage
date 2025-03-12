@@ -6,7 +6,7 @@ subtitle: "A collaborative of economists on the science and practice of regulate
 :::::: columns
 
 ::: {.column width="65%"}
-## History
+## Foundation
 
 In the fall of 2000, the Risk Adjustment Network (RAN) was established by health economists from the Netherlands, Belgium, Germany, Israel, and Switzerland. Currently, the network also includes representatives from Ireland, Australia, and the United States.
 
