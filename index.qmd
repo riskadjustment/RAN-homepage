@@ -3,6 +3,9 @@ title: "Risk Adjustment Network"
 subtitle: "A collaborative of economists on the science and practice of regulated competition in health insurance" 
 ---
   
+:::: {.columns}
+
+::: {.column width="70%"}
 # History
   
 In the fall of 2000, the Risk Adjustment Network (RAN) was established by health economists from the Netherlands, Belgium, Germany, Israel, and Switzerland. Currently, the network also includes representatives from Ireland, Australia, and the United States.
@@ -26,7 +29,13 @@ Our mission is to endorse an international exchange of scientific results in the
 * McGuire, T.G., S. Schillo, and R.C. van Kleef (2020). Reinsurance, Repayments, and Risk Adjustment in Individual Health Insurance: Germany, The Netherlands and the U.S. Marketplaces. American Journal of Health Economics 6: 139-168. [https://doi.org/10.1086/706796](https://doi.org/10.1086/706796)
 
 * McGuire T.G., R.C. van Kleef (editors), and many RAN-members (2018). Risk Adjustment, Risk Sharing and Premium Regulation in Health Insurance Markets: Theory and Practice, Elsevier. [https://doi.org/10.1016/B978-0-12-811325-7.00021-X](https://doi.org/10.1016/B978-0-12-811325-7.00021-X)
-
+:::
+  
+::: {.column width="10%"}
+<!-- empty column to create gap -->
+:::
+  
+::: {.column width="20%"}
 # Profiles of members
 
 - [Armstrong, John (IE)](https://ie.linkedin.com/in/john-armstrong-ba22a31)
@@ -60,3 +69,6 @@ Our mission is to endorse an international exchange of scientific results in the
 # Profile of permanent guest
 
 - [Demme, Sylvia](https://www.linkedin.com/in/dr-sylvia-demme-1b5457113/)
+:::
+  
+::::
