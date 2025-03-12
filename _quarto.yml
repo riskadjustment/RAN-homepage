@@ -3,16 +3,14 @@ project:
 
 website:
   title: "Risk Adjustment Network"
-navbar:
-  left:
-  - href: index.qmd
-    text: Home
+  navbar:
+    left:
+    - href: index.qmd
+      text: Home
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    css: style.css
     toc: true
 
 editor: source
-

@@ -2,73 +2,74 @@
 title: "Risk Adjustment Network"
 subtitle: "A collaborative of economists on the science and practice of regulated competition in health insurance" 
 ---
-  
-:::: {.columns}
 
-::: {.column width="70%"}
-# History
-  
+:::::: columns
+
+::: {.column width="65%"}
+## History
+
 In the fall of 2000, the Risk Adjustment Network (RAN) was established by health economists from the Netherlands, Belgium, Germany, Israel, and Switzerland. Currently, the network also includes representatives from Ireland, Australia, and the United States.
 
-# Mission statement
+## Mission statement
 
 Our mission is to endorse an international exchange of scientific results in the field of risk equalization systems and to enhance the usability of this knowledge in the political process. We also share our knowledge about the science and practice of regulated competition in health insurance in general and compose international comparison papers on specific subjects.
 
-# Recently completed RAN-projects (since 2018)
+## Recently completed RAN-projects (since 2018)
 
-* Van Kleef, R.C., M. Reuser, T.G. McGuire, K. Beck, J. Wasem, S. Brammli-Greenberg, J. Armstrong, E. Schokkaert, F. Paolucci, and R.P. Ellis (2024). "Scope and Incentives for Risk Selection in Health Insurance Markets With Regulated Competition: A Conceptual Framework and International Comparison" Medical Care Research and Review. [https://doi.org/10.1177/10775587231222584](https://doi.org/10.1177/10775587231222584)
+-   Van Kleef, R.C., M. Reuser, T.G. McGuire, K. Beck, J. Wasem, S. Brammli-Greenberg, J. Armstrong, E. Schokkaert, F. Paolucci, and R.P. Ellis (2024). "Scope and Incentives for Risk Selection in Health Insurance Markets With Regulated Competition: A Conceptual Framework and International Comparison" Medical Care Research and Review. <https://doi.org/10.1177/10775587231222584>
 
-* Van de Ven, W.P.M.M., K. Beck, F. Buchner, E. Schokkaert, F.T. Schut, A. Shmueli, J. Wasem (2024). Preconditions for efficiency and affordability in competitive healthcare markets: Are they fulfilled in Belgium, Germany, Israel, the Netherlands and Switzerland? Ten years later. Health Policy 146. [https://doi.org/10.1016/j.healthpol.2024.105099](https://doi.org/10.1016/j.healthpol.2024.105099)
+-   Van de Ven, W.P.M.M., K. Beck, F. Buchner, E. Schokkaert, F.T. Schut, A. Shmueli, J. Wasem (2024). Preconditions for efficiency and affordability in competitive healthcare markets: Are they fulfilled in Belgium, Germany, Israel, the Netherlands and Switzerland? Ten years later. Health Policy 146. <https://doi.org/10.1016/j.healthpol.2024.105099>
 
-* Trottmann, M., P.J.A. Stam, J.S. Visser, and S. Brammli-Greenberg (2023). Balancing between competition and regulation in healthcare markets. Health Economics, Policy and Law: 1-10. [https://doi.org/10.1017/s1744133123000312](https://doi.org/10.1017/s1744133123000312)
+-   Trottmann, M., P.J.A. Stam, J.S. Visser, and S. Brammli-Greenberg (2023). Balancing between competition and regulation in healthcare markets. Health Economics, Policy and Law: 1-10. <https://doi.org/10.1017/s1744133123000312>
 
-* Douven, R., L. Kauer, S. Demme, F. Paolucci, W.P.M.M. van de Ven, J. Wasem & X. Zhao (2022). Should administrative costs in health insurance be included in the risk-equalization? An analysis of five countries. European Journal of Health Economics 23: 1437-1453. [https://doi.org/10.1007/s10198-022-01436-y](https://doi.org/10.1007/s10198-022-01436-y)
+-   Douven, R., L. Kauer, S. Demme, F. Paolucci, W.P.M.M. van de Ven, J. Wasem & X. Zhao (2022). Should administrative costs in health insurance be included in the risk-equalization? An analysis of five countries. European Journal of Health Economics 23: 1437-1453. <https://doi.org/10.1007/s10198-022-01436-y>
 
-* McGuire, T.G., S. Schillo, and R.C. van Kleef (2021). Very High and Low Residual Spenders in Private Health Insurance Markets: Germany, The Netherlands and the US Marketplaces. European Journal of Health Economics 22: 35-50. [https://doi.org/10.1007/s10198-020-01227-3](https://doi.org/10.1007/s10198-020-01227-3)
+-   McGuire, T.G., S. Schillo, and R.C. van Kleef (2021). Very High and Low Residual Spenders in Private Health Insurance Markets: Germany, The Netherlands and the US Marketplaces. European Journal of Health Economics 22: 35-50. <https://doi.org/10.1007/s10198-020-01227-3>
 
-* McGuire, T.G., S. Schillo, and R.C. van Kleef (2020). Reinsurance, Repayments, and Risk Adjustment in Individual Health Insurance: Germany, The Netherlands and the U.S. Marketplaces. American Journal of Health Economics 6: 139-168. [https://doi.org/10.1086/706796](https://doi.org/10.1086/706796)
+-   McGuire, T.G., S. Schillo, and R.C. van Kleef (2020). Reinsurance, Repayments, and Risk Adjustment in Individual Health Insurance: Germany, The Netherlands and the U.S. Marketplaces. American Journal of Health Economics 6: 139-168. <https://doi.org/10.1086/706796>
 
-* McGuire T.G., R.C. van Kleef (editors), and many RAN-members (2018). Risk Adjustment, Risk Sharing and Premium Regulation in Health Insurance Markets: Theory and Practice, Elsevier. [https://doi.org/10.1016/B978-0-12-811325-7.00021-X](https://doi.org/10.1016/B978-0-12-811325-7.00021-X)
+-   McGuire T.G., R.C. van Kleef (editors), and many RAN-members (2018). Risk Adjustment, Risk Sharing and Premium Regulation in Health Insurance Markets: Theory and Practice, Elsevier. <https://doi.org/10.1016/B978-0-12-811325-7.00021-X>
 :::
-  
-::: {.column width="10%"}
+
+::: {.column width="5%"}
 <!-- empty column to create gap -->
 :::
-  
-::: {.column width="20%"}
-# Profiles of members
 
-- [Armstrong, John (IE)](https://ie.linkedin.com/in/john-armstrong-ba22a31)
-- [Beck, Konstantin (CH)](https://www.unilu.ch/fakultaeten/wf/professuren/titularprof-dr-konstantin-beck/)
-- [Brammli-Greenberg, Shuli (IS)](https://sites.google.com/view/shuli-brammli-greenberg)
-- [Buchner, Florian (DE)](http://mitarbeiter.fh-kaernten.at/florianbuchner/)
-- [Douven, Rudy (NL)](http://www.cpb.nl/en/staff/rudy-douven)
-- [Ellis, Randy (US)](http://blogs.bu.edu/ellisrp/)
-- [Glazer, Jacob (IS)](https://en-coller.tau.ac.il/profile/glazer)
-- [Holly, Alberto (CH)](https://www.linkedin.com/in/alberto-holly-71555410)
-- [Kauer, Lukas (CH)](https://www.unilu.ch/fakultaeten/gmf/professuren/lehr-und-forschungsbeauftragte/lukas-kauer-phd/)
-- [Layton, Timothy (US)](https://hcp.hms.harvard.edu/people/timothy-j-layton)
-- [Lorenz, Normann (DE)](https://www.uni-trier.de/universitaet/fachbereiche-faecher/fachbereich-iv/faecher/volkswirtschaftslehre/professuren/sozialpolitik/personen/prof-dr-normann-lorenz/forschung)
-- [McGuire, Thomas (US)](http://www.hcp.med.harvard.edu/faculty/core/thomas-mcguire-phd)
-- [Paolucci, Francesco (AU)](https://www.newcastle.edu.au/profile/francesco-paolucci)
-- [Pirktl, Lenny (CH)](https://www.linkedin.com/in/lenny-pirktl-18835827)
-- [Rose, Sherri (US)](https://profiles.stanford.edu/sherrirose)
-- [Schillo, Sonja (DE)](https://www.linkedin.com/in/sonja-schillo-8b18a810/)
-- [Schmid, Christian (CH)](https://www.css.ch/en/institute/about-us/team/christian-schmid.html)
-- [Schokkaert, Erik (BE)](http://www.kuleuven.be/wieiswie/nl/person/00009398)
-- [Schut, Erik (NL)](https://www.eur.nl/eshpm/people/erik-schut)
-- [Shmueli, Amir (IS)](https://www.israelhpr.org.il/en/organization/prof-amir-shmueli/)
-- [Stam, Piet (NL)](https://vu.nl/en/research/scientists/piet-stam)
-- [Van de Ven, Wynand (NL)](https://www.eur.nl/eshpm/people/wynand-van-de-ven)
-- [Van Kleef, Richard (NL)](http://www.richardvankleef.com/)
-- [Van Veen, Suzanne (NL)](https://www.linkedin.com/in/suzanne-van-veen-wubben-93961119)
-- [Van Vliet, René (NL)](https://www.eur.nl/eshpm/people/rene-van-vliet/)
-- [Wasem, Juergen (DE)](https://www.mm.wiwi.uni-due.de/team/lehrstuhlinhaber/juergen-wasem/)
-- [Withagen-Koster, Anja (NL)](https://www.eur.nl/eshpm/people/anja-withagen-koster)
+::: {.column width="30%"}
+![](images/RANlogo.jpg)
 
-# Profile of permanent guest
+#### Members
 
-- [Demme, Sylvia](https://www.linkedin.com/in/dr-sylvia-demme-1b5457113/)
+-   [Armstrong, John (IE)](https://ie.linkedin.com/in/john-armstrong-ba22a31)
+-   [Beck, Konstantin (CH)](https://www.unilu.ch/fakultaeten/wf/professuren/titularprof-dr-konstantin-beck/)
+-   [Brammli-Greenberg, Shuli (IS)](https://sites.google.com/view/shuli-brammli-greenberg)
+-   [Buchner, Florian (DE)](http://mitarbeiter.fh-kaernten.at/florianbuchner/)
+-   [Douven, Rudy (NL)](http://www.cpb.nl/en/staff/rudy-douven)
+-   [Ellis, Randy (US)](http://blogs.bu.edu/ellisrp/)
+-   [Glazer, Jacob (IS)](https://en-coller.tau.ac.il/profile/glazer)
+-   [Holly, Alberto (CH)](https://www.linkedin.com/in/alberto-holly-71555410)
+-   [Kauer, Lukas (CH)](https://www.unilu.ch/fakultaeten/gmf/professuren/lehr-und-forschungsbeauftragte/lukas-kauer-phd/)
+-   [Layton, Timothy (US)](https://hcp.hms.harvard.edu/people/timothy-j-layton)
+-   [Lorenz, Normann (DE)](https://www.uni-trier.de/universitaet/fachbereiche-faecher/fachbereich-iv/faecher/volkswirtschaftslehre/professuren/sozialpolitik/personen/prof-dr-normann-lorenz/forschung)
+-   [McGuire, Thomas (US)](http://www.hcp.med.harvard.edu/faculty/core/thomas-mcguire-phd)
+-   [Paolucci, Francesco (AU)](https://www.newcastle.edu.au/profile/francesco-paolucci)
+-   [Pirktl, Lenny (CH)](https://www.linkedin.com/in/lenny-pirktl-18835827)
+-   [Rose, Sherri (US)](https://profiles.stanford.edu/sherrirose)
+-   [Schillo, Sonja (DE)](https://www.linkedin.com/in/sonja-schillo-8b18a810/)
+-   [Schmid, Christian (CH)](https://www.css.ch/en/institute/about-us/team/christian-schmid.html)
+-   [Schokkaert, Erik (BE)](http://www.kuleuven.be/wieiswie/nl/person/00009398)
+-   [Schut, Erik (NL)](https://www.eur.nl/eshpm/people/erik-schut)
+-   [Shmueli, Amir (IS)](https://www.israelhpr.org.il/en/organization/prof-amir-shmueli/)
+-   [Stam, Piet (NL)](https://vu.nl/en/research/scientists/piet-stam)
+-   [Van de Ven, Wynand (NL)](https://www.eur.nl/eshpm/people/wynand-van-de-ven)
+-   [Van Kleef, Richard (NL)](http://www.richardvankleef.com/)
+-   [Van Veen, Suzanne (NL)](https://www.linkedin.com/in/suzanne-van-veen-wubben-93961119)
+-   [Van Vliet, René (NL)](https://www.eur.nl/eshpm/people/rene-van-vliet/)
+-   [Wasem, Juergen (DE)](https://www.mm.wiwi.uni-due.de/team/lehrstuhlinhaber/juergen-wasem/)
+-   [Withagen-Koster, Anja (NL)](https://www.eur.nl/eshpm/people/anja-withagen-koster)
+
+#### Permanent guest
+
+-   [Demme, Sylvia](https://www.linkedin.com/in/dr-sylvia-demme-1b5457113/)
 :::
-  
-::::
+::::::
