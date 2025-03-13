@@ -1,9 +1,20 @@
 ---
-title: "Risk Adjustment Network"
-subtitle: "A collaborative of economists on the science and practice of regulated competition in health insurance" 
 ---
 
-:::::: columns
+::::::: {#page}
+
+:::::: {#header}
+
+::::: {#headerimg}
+Risk Adjustment Network
+
+A collaborative of economists on the science and practice of regulated competition in health insurance
+:::::
+
+::::::
+
+
+:::: columns
 
 ::: {.column width="65%"}
 ## Foundation
@@ -72,4 +83,7 @@ Our mission is to endorse an international exchange of scientific results in the
 
 -   [Demme, Sylvia](https://www.linkedin.com/in/dr-sylvia-demme-1b5457113/)
 :::
-::::::
+
+::::
+
+:::::::
