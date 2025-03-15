@@ -5,7 +5,7 @@
 
 :::::: {#header}
 ::::: {#headerimg}
-# [Risk Adjustment Network](http://www.riskadjustment.net/)
+# Risk Adjustment Network
 :::: {.description}
 A collaborative of economists on the science and practice of regulated competition in health insurance
 ::::

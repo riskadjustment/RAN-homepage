@@ -24,7 +24,7 @@ Tags: blue, custom header, fixed width, two columns, widgets
 body {
 	font-size: 62.5%; /* Resets 1em to 10px */
 	font-family: 'Lucida Grande', Verdana, Arial, Sans-Serif;
-	background: #d5d6d7 url('images/kubrickbgcolor.jpg');
+	background: #d5d6d7 url('../images/kubrickbgcolor.jpg');
 	color: #333;
 	text-align: center;
 	}
@@ -36,7 +36,7 @@ body {
 	}
 
 #header {
-	background: #73a0c5 url('images/kubrickheader.jpg') no-repeat bottom center;
+	background: #73a0c5 url('../images/kubrickheader.jpg') no-repeat bottom center;
 	}
 
 #headerimg 	{
@@ -81,7 +81,7 @@ border: 1px solid #ddd;
 }
 
 #footer {
-	background: #e7e7e7 url('images/kubrickfooter.jpg') no-repeat top;
+	background: #e7e7e7 url('../images/kubrickfooter.jpg') no-repeat top;
 	border: none;
 	}
 
@@ -721,10 +721,10 @@ div.aligncenter {
 	and not in the wp-layout.css file. If you prefer to use only CSS for colors and what
 	not, then go right ahead and delete the following lines, and the image files. */
 		
-	body { background: url("images/kubrickbgcolor.jpg"); }	
-	#page { background: url("images/kubrickbg.jpg") repeat-y top; border: none; }
-	#header { background: url("images/kubrickheader.jpg") no-repeat bottom center; }
-	#footer { background: url("images/kubrickfooter.jpg") no-repeat bottom; border: none;}
+	body { background: url("../images/kubrickbgcolor.jpg"); }	
+	#page { background: url("../images/kubrickbg.jpg") repeat-y top; border: none; }
+	#header { background: url("../images/kubrickheader.jpg") no-repeat bottom center; }
+	#footer { background: url("../images/kubrickfooter.jpg") no-repeat bottom; border: none;}
 
 /*	Because the template is slightly different, size-wise, with images, this needs to be set here
 	If you don't want to use the template's images, you can also delete the following two lines. */
