@@ -4,13 +4,16 @@ project:
 website:
   title: "Risk Adjustment Network"
   favicon: "favicon.ico"
-  
-  page-footer: 
-    center: 
-      - text: "The website is proudly powered by Stam Online"
 
 format:
   html:
     css: style.css
+    grid: 
+      sidebar-width: 0px
+      body-width: 800px
+      margin-width: 0px
+      gutter-width: 0rem
+    link-external-icon: true
+    link-external-newwindow: true
 
 editor: source

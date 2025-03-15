@@ -5,9 +5,7 @@
 
 :::::: {#header}
 ::::: {#headerimg}
-:::: {style="font-size:4em;text-align:center;"}
-[Risk Adjustment Network](http://www.riskadjustment.net/)
-::::
+# [Risk Adjustment Network](http://www.riskadjustment.net/)
 :::: {.description}
 A collaborative of economists on the science and practice of regulated competition in health insurance
 ::::
@@ -17,14 +15,14 @@ A collaborative of economists on the science and practice of regulated competiti
 
 :::: columns
 
-::: {.column width="65%"}
+::: {.column #content .narrowcolumn width="500px"}
 ## Foundation
 
 In the fall of 2000, the Risk Adjustment Network (RAN) was established by health economists from the Netherlands, Belgium, Germany, Israel, and Switzerland. Currently, the network also includes representatives from Ireland, Australia, and the United States.
 
 ## Mission statement
 
-Our mission is to endorse an international exchange of scientific results in the field of risk equalization systems and to enhance the usability of this knowledge in the political process. We also share our knowledge about the science and practice of regulated competition in health insurance in general and compose international comparison papers on specific subjects.
+Our mission is to promote the international exchange of scientific findings in the field of risk equalization systems and to enhance the application of this knowledge in the political process. We also disseminate our expertise on the science and practice of regulated competition in health insurance and produce international comparison papers on specific topics.
 
 ## Recently completed RAN-projects (since 2018)
 
@@ -43,14 +41,14 @@ Our mission is to endorse an international exchange of scientific results in the
 -   McGuire T.G., R.C. van Kleef (editors), and many RAN-members (2018). Risk Adjustment, Risk Sharing and Premium Regulation in Health Insurance Markets: Theory and Practice, Elsevier. [https://doi.org/10.1016/B978-0-12-811325-7.00021-X](https://doi.org/10.1016/B978-0-12-811325-7.00021-X)
 :::
 
-::: {.column width="5%"}
+::: {.column width="45px"}
 <!-- empty column to create gap -->
 :::
 
-::: {.column width="30%"}
-![](images/RANlogo.jpg)
+::: {.column width="190px"}
+![](images/RANlogo.jpg){width=200 height=50 style="border:0; margin-top:40px; margin-bottom:5px;"}
 
-#### Members
+## Members
 
 -   [Armstrong, John (IE)](https://ie.linkedin.com/in/john-armstrong-ba22a31)
 -   [Beck, Konstantin (CH)](https://www.unilu.ch/fakultaeten/wf/professuren/titularprof-dr-konstantin-beck/)
@@ -80,11 +78,15 @@ Our mission is to endorse an international exchange of scientific results in the
 -   [Wasem, Juergen (DE)](https://www.mm.wiwi.uni-due.de/team/lehrstuhlinhaber/juergen-wasem/)
 -   [Withagen-Koster, Anja (NL)](https://www.eur.nl/eshpm/people/anja-withagen-koster)
 
-#### Permanent guest
+## Permanent guest
 
 -   [Demme, Sylvia](https://www.linkedin.com/in/dr-sylvia-demme-1b5457113/)
 :::
 
+::::
+
+:::: {#footer}
+This website is proudly powered by [Stam Online](http://www.stamonline.nl/).
 ::::
 
 :::::::
